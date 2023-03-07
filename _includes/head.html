@@ -142,7 +142,10 @@
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
-
+  
+  <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico"/>
+  
+  
   {% if page.head-extra %}
     {% for file in page.head-extra %}
       {% include {{ file }} %}
