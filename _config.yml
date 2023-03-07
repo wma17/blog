@@ -52,10 +52,10 @@ social-network-links:
   email: "maw2020@mail.sustech.edu.cn"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: 
-  github: "https://github.com/wma17"
+  github: /wma17
 #  twitter: 
 #  patreon: 
-  youtube: https://www.youtube.com/channel/UC_mFEKhYMxDY99M9zi4f9PQ
+  youtube: /channel/UC_mFEKhYMxDY99M9zi4f9PQ
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
