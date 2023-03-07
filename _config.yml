@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Wang's Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Wang Ma
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - My Homepage: "https://wma17.github.io/"
+    - Video Channel: "https://space.bilibili.com/237775327"
+  CV: "https://wma17.github.io/"
 
 ################
 # --- Logo --- #
@@ -49,13 +49,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "maw2020@mail.sustech.edu.cn"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+ # facebook: 
+  github: "https://github.com/wma17"
+#  twitter: 
+#  patreon: 
+  youtube: https://www.youtube.com/channel/UC_mFEKhYMxDY99M9zi4f9PQ
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -117,7 +117,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Wang Ma"
 
 ######################################
 # --- Colours / background image --- #
