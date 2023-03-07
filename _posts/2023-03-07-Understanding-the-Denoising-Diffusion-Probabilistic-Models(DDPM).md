@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Understanding the Denoising Diffusion robabilistic Models(DDPM)
+title: Understanding the Denoising Diffusion Probabilistic Models(DDPM)
 subtitle: My first time to write a blog
-
+readtime: true
+tags: [Diffuusion Models]
 comments: true
 ---
 
