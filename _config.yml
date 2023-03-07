@@ -25,6 +25,8 @@ navbar-links:
     - My Homepage: "https://wma17.github.io/"
     - Video Channel: "https://space.bilibili.com/237775327"
   CV: "https://wma17.github.io/"
+  
+  Tags: "/tags"
 
 ################
 # --- Logo --- #
