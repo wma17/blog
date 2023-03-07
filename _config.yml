@@ -20,13 +20,14 @@ author: Wang Ma
 ###############################################
 
 navbar-links:
+  Posts: "/"
   About Me: "aboutme"
+  Tags: "/tags"
   Resources:
     - My Homepage: "https://wma17.github.io/"
     - Video Channel: "https://space.bilibili.com/237775327"
   CV: "https://wma17.github.io/"
   
-  Tags: "/tags"
 
 ################
 # --- Logo --- #
