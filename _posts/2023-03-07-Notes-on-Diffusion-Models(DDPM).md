@@ -19,7 +19,7 @@ Two weeks ago, a friends recommended me the [ControlNet](https://arxiv.org/pdf/2
 
 The idea of Diffusion Models comes from non-equilibrium thermodynamics, generally speaking, we slowly add random Gaussian noise to the data step by step, then learn to reverse the procedure to construct new satisfactory data. Imagine that when the forward steps are very long, the data will completely be a noise; So this model contains the potential to generate a new image by denoising a Gaussian noise step by step. This potential becomes a fact after experiments. 
 
-![process](https://github.com//wma17/images/2023-03-07-DDPM/process.png)
+![Diffusion Process](https://github.com/wma17/blog/blob/master/images/2023-03-07-DDPM/process.png)
 
 ## Forward Process
 
