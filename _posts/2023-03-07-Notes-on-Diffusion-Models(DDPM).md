@@ -3,7 +3,7 @@ layout: post
 title: Notes on Diffusion Models(DDPM)
 subtitle: Notes to help me understand the math in the paper
 readtime: true
-tags: [Diffuusion Models]
+tags: [Diffusion Models]
 comments: true
 ---
 
